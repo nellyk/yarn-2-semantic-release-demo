@@ -1,3 +1,10 @@
+# [package-b-v1.1.0](https://github.com/nellyk/yarn-2-semantic-release-demo/compare/package-b-v1.0.0...package-b-v1.1.0) (2021-05-14)
+
+
+### Features
+
+* **package:** updating only package-b ([581f81a](https://github.com/nellyk/yarn-2-semantic-release-demo/commit/581f81a1df5d907c6d460da9592cb9861b0f7776))
+
 # package-b-v1.0.0 (2021-05-14)
 
 
