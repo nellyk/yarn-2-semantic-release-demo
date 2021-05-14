@@ -52,6 +52,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@semantic-release/git", "virtual:012a65fd1fd289467323da6d007181144509762e2e1361945664691218f5a83f286d8f47792a79055affbb616ae0b3fdc1ac482a2a5cfc3fb0245094c19e1a69#npm:9.0.0"],
             ["@semantic-release/github", "virtual:75667890c0dfc35db1e7386b2f0243952aafcc6dcb4748b7608ca46f1f07abdd71745611943549b3195f204a61e00d858e0b6a69c286c3cc9c88cac22d733417#npm:7.2.3"],
             ["@semantic-release/npm", "virtual:75667890c0dfc35db1e7386b2f0243952aafcc6dcb4748b7608ca46f1f07abdd71745611943549b3195f204a61e00d858e0b6a69c286c3cc9c88cac22d733417#npm:7.1.3"],
+            ["@semantic-release/release-notes-generator", "virtual:75667890c0dfc35db1e7386b2f0243952aafcc6dcb4748b7608ca46f1f07abdd71745611943549b3195f204a61e00d858e0b6a69c286c3cc9c88cac22d733417#npm:9.0.2"],
             ["semantic-release", "npm:17.4.3"],
             ["semantic-release-monorepo", "virtual:012a65fd1fd289467323da6d007181144509762e2e1361945664691218f5a83f286d8f47792a79055affbb616ae0b3fdc1ac482a2a5cfc3fb0245094c19e1a69#npm:7.0.5"]
           ],
@@ -5690,6 +5691,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@semantic-release/git", "virtual:012a65fd1fd289467323da6d007181144509762e2e1361945664691218f5a83f286d8f47792a79055affbb616ae0b3fdc1ac482a2a5cfc3fb0245094c19e1a69#npm:9.0.0"],
             ["@semantic-release/github", "virtual:75667890c0dfc35db1e7386b2f0243952aafcc6dcb4748b7608ca46f1f07abdd71745611943549b3195f204a61e00d858e0b6a69c286c3cc9c88cac22d733417#npm:7.2.3"],
             ["@semantic-release/npm", "virtual:75667890c0dfc35db1e7386b2f0243952aafcc6dcb4748b7608ca46f1f07abdd71745611943549b3195f204a61e00d858e0b6a69c286c3cc9c88cac22d733417#npm:7.1.3"],
+            ["@semantic-release/release-notes-generator", "virtual:75667890c0dfc35db1e7386b2f0243952aafcc6dcb4748b7608ca46f1f07abdd71745611943549b3195f204a61e00d858e0b6a69c286c3cc9c88cac22d733417#npm:9.0.2"],
             ["semantic-release", "npm:17.4.3"],
             ["semantic-release-monorepo", "virtual:012a65fd1fd289467323da6d007181144509762e2e1361945664691218f5a83f286d8f47792a79055affbb616ae0b3fdc1ac482a2a5cfc3fb0245094c19e1a69#npm:7.0.5"]
           ],
