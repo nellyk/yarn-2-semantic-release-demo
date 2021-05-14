@@ -1,0 +1,36 @@
+{
+  "name": "yarn-2-semantic-release-demo",
+  "main": "index.js",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "repository": "https://github.com/nellyk/yarn-2-semantic-release-demo.git",
+  "author": "nkiboi <nelly.j.kiboi@aexp.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "semantic-release": "^17.4.3",
+    "semantic-release-monorepo": "^7.0.5"
+  },
+  "release": {
+    "extends": "semantic-release-monorepo",
+    "branches": [
+      "+([0-9])?(.{+([0-9]),x}).x",
+      "main",
+      "next",
+      "next-major",
+      {
+        "name": "beta",
+        "prerelease": true
+      },
+      {
+        "name": "alpha",
+        "prerelease": true
+      }
+    ],
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator"
+    ]
+  }
+}
