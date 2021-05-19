@@ -1,6 +1,5 @@
 {
   "name": "yarn-2-semantic-release-demo",
-  "main": "index.js",
   "private": true,
   "workspaces": [
     "packages/*"
