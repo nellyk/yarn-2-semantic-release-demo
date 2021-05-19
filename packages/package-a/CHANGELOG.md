@@ -1,3 +1,10 @@
+# [package-a-v1.2.0](https://github.com/nellyk/yarn-2-semantic-release-demo/compare/package-a-v1.1.0...package-a-v1.2.0) (2021-05-19)
+
+
+### Features
+
+* **readme:** update readme ([52d2ccb](https://github.com/nellyk/yarn-2-semantic-release-demo/commit/52d2ccb1606f779af225f06e2c3a5a023327ba77))
+
 # [package-a-v1.1.0](https://github.com/nellyk/yarn-2-semantic-release-demo/compare/package-a-v1.0.0...package-a-v1.1.0) (2021-05-19)
 
 
